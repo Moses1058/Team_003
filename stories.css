@@ -77,6 +77,7 @@ header {
   text-align: center;
   letter-spacing: 2.5px;
   color: #ffffff;
+  transition: 0.5s;
 }
 .nav hr {
   width: 82.66%;
@@ -313,6 +314,7 @@ footer {
 .footer-nav p {
   margin-bottom: 19px;
   cursor: pointer;
+  transition: 0.5s;
 }
 .footer-nav p:hover {
   mix-blend-mode: normal;
@@ -322,6 +324,7 @@ footer {
   display: flex;
   justify-content: center;
   margin-top: 119px;
+  transition: 0.5s;
 }
 .get:hover {
   text-decoration: underline;
@@ -394,6 +397,7 @@ footer {
   .footer-nav {
     order: 2;
     display: flex;
+    transition: 0.5s;
   }
   .footer-nav p {
     margin-right: 26px;
@@ -466,6 +470,7 @@ footer {
   }
   #logo {
     z-index: 2;
+    margin-top: -15px;
   }
 }
 @media (min-width: 1440px) {
