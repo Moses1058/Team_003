@@ -75,6 +75,7 @@ header {
   text-align: center;
   letter-spacing: 2.5px;
   color: #ffffff;
+  transition: 0.5s;
 }
 .nav hr {
   width: 82.66%;
@@ -85,8 +86,9 @@ header {
   line-height: 20px;
   text-align: center;
   letter-spacing: 2.5px;
-  text-transform: toppercase;
+
   color: #000000;
+  transition: 0.5s;
 }
 /*U P P E R*/
 #photographer {
@@ -255,6 +257,7 @@ input[type="checkbox"]:checked::before {
   color: #ffffff;
   cursor: pointer;
   margin-top: 40px;
+  transition: 0.5s;
 }
 .invite:hover {
   cursor: pointer;
@@ -362,6 +365,7 @@ input[type="checkbox"]:checked::before {
 .invite {
   display: flex;
   margin-top: 24px;
+  transition: 0.5s;
 }
 #arrow {
   margin-left: 16px;
@@ -408,6 +412,7 @@ footer {
 .footer-nav p {
   margin-bottom: 19px;
   cursor: pointer;
+  transition: 0.5s;
 }
 .footer-nav p:hover {
   mix-blend-mode: normal;
@@ -417,6 +422,7 @@ footer {
   display: flex;
   justify-content: center;
   margin-top: 119px;
+  transition: 0.5s;
 }
 .get:hover {
   text-decoration: underline;
